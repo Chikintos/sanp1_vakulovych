@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OP5PYtaaBFLDfX8G+UU/GlGN8zHNdNhpn1J0nl/8lv6ysbS2z204y/S8uhS2oLskXRlfjH2s1kgn+LXV23O3SQ==",
+  "success": true,
+  "projectFilePath": "C:\\__My\\__6-SEM\\System and Network Programming\\Lab3_DiskInfo\\Lab3_DiskInfo\\Lab3_DiskInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miram\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\miram\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
